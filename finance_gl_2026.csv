@@ -1,0 +1,7 @@
+GENERAL LEDGER EXPORT - generated 2026-11-01 by LegacyFin v3.2
+account,period,debit,credit,memo
+4000,2026-10,0.00,15000.00,Monthly revenue
+5000,2026-10,4200.00,0.00,"Vendor payment
+split across two lines"
+6100,2026-10,350.25,0.00,Office supplies
+TOTAL ROWS: 3

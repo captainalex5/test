@@ -1,0 +1,4 @@
+emp_id,full_name,department,hire_date,salary,remote
+E01,José Martínez,Sales,12-Mar-2021,72000,Y
+E02,Anna Müller,Finance,01-Aug-2019,88000,N
+E03,François Dubois,IT,23-Nov-2024,95000,Y

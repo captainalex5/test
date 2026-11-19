@@ -1,0 +1,7 @@
+Customer ID,First Name,Last Name,Email Address,Signup Date,Lifetime Value,Is Active
+1001,Ana,Lopez,ana.lopez@example.com,03/15/2024,"1,250.00",Y
+1002,Ben,Carter,,07/02/2023,980.50,Y
+1003,"Chen, Jr.",Wei,wei.chen@example.com,N/A,N/A,N
+1004,Dana,Brooks,dana.b@example.com,11/30/2025,0,Y
+1004,Dana,Brooks,dana.b@example.com,11/30/2025,0,Y
+1005,Eli,Nguyen,eli.n@example.com,01/09/2026,"2,040.75",
